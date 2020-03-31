@@ -1,0 +1,2 @@
+include ':app', ':mypush', ':sharelibrary'
+rootProject.name='MyTestModule'
